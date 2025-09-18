@@ -1,8 +1,7 @@
 # QS World University Rankings 2026 Analysis  
 Analysis to explore global leading institutions ranked as per 6 ranking indicators by QS World University Rankings
-
-## Main presentation
 https://public.tableau.com/app/profile/ola.gaffarova/viz/UNI_17581014299910/Story1#1
+
 
 ## Project Summary  
 This project analyzes the **QS World University Rankings 2026 dataset** to uncover insights into how universities worldwide are evaluated across multiple performance indicators. The rankings combine various lenses, including **Academic Reputation, Employer Reputation, Faculty/Student Ratio, International Research Network, Sustainability, and Employability & Outcomes**.  
