@@ -1,6 +1,10 @@
 # QS World University Rankings 2026 Analysis  
 Analysis to explore global leading institutions ranked as per 6 ranking indicators by QS World University Rankings
 
+---
+## MAIN PRESANTATION YOU CAN FIND BY THIS LINK -- https://public.tableau.com/app/profile/ola.gaffarova/viz/UNI_17581014299910/Story1#1 --
+---
+
 ## Project Summary  
 This project analyzes the **QS World University Rankings 2026 dataset** to uncover insights into how universities worldwide are evaluated across multiple performance indicators. The rankings combine various lenses, including **Academic Reputation, Employer Reputation, Faculty/Student Ratio, International Research Network, Sustainability, and Employability & Outcomes**.  
 
@@ -16,13 +20,6 @@ However, not everyone can realistically enroll in the top 10 due to high competi
 According to the QS methodology, the Discovery and Research lens carries the greatest weight (50%), with Academic Reputation (AR) as its key component (30%).
 The goal of this analysis is to explore which other scores contribute to success in AR, helping us better understand what drives rankings outside of the top tier.
 
-## Scope
-This analysis explores:
-Global distribution of top universities (map) and descriptive statistics
-Differences across quartiles of universities
-Correlation patterns between indicators in each quartile
-Which scores most strongly drive Academic Reputation (AR) in the middle quartiles
-A few suggestions for undergraduates based on our findings 
 ---
 
 ## Key Questions  
