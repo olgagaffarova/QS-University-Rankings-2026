@@ -1,0 +1,4 @@
+Step,Description,X,Y,Color
+Correlation,"How AR relates to ER, SUS, CPF one by one",0.1,0.5,#a6cee3
+Multiple Regression,"How ER, SUS, CPF each contribute to AR at the same time",0.5,0.5,#b2df8a
+Unique Effects,Shows which score has an independent influence on AR,0.9,0.5,#fb9a99

@@ -1,0 +1,13 @@
+Quartile,Type,Predictor,Value
+25–50% – Q2,Correlation,ER SCORE,0.372
+25–50% – Q2,Regression,ER SCORE,0.244
+50–75% – Q3,Correlation,ER SCORE,0.483
+50–75% – Q3,Regression,ER SCORE,0.388
+25–50% – Q2,Correlation,CPF SCORE,-0.438
+25–50% – Q2,Regression,CPF SCORE,-0.315
+50–75% – Q3,Correlation,CPF SCORE,-0.379
+50–75% – Q3,Regression,CPF SCORE,-0.243
+25–50% – Q2,Correlation,SUS SCORE,0.311
+25–50% – Q2,Regression,SUS SCORE,0.311
+50–75% – Q3,Correlation,SUS SCORE,0.114
+50–75% – Q3,Regression,SUS SCORE,0.16
