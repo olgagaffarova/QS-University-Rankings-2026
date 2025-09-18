@@ -1,5 +1,5 @@
 # QS World University Rankings 2026 Analysis  
-Analysis to explore global leading institutions ranked as per 6 ranking indicators by QS World University Rankings
+The project explores how universities are ranked in the QS World University Rankings 2026 by examining correlations in 4 quartiles, and country-level trends across multiple performance indicators. Insights aim to help undergraduates make informed choices and highlight what drives institutional excellence globally.
 https://public.tableau.com/app/profile/ola.gaffarova/viz/UNI_17581014299910/Story1#1
 
 
