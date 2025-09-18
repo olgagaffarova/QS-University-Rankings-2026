@@ -2,7 +2,8 @@
 Analysis to explore global leading institutions ranked as per 6 ranking indicators by QS World University Rankings
 
 ---
-## MAIN PRESANTATION YOU CAN FIND BY THIS LINK -- https://public.tableau.com/app/profile/ola.gaffarova/viz/UNI_17581014299910/Story1#1 --
+## Main presentation by the link below
+https://public.tableau.com/app/profile/ola.gaffarova/viz/UNI_17581014299910/Story1#1 --
 ---
 
 ## Project Summary  
