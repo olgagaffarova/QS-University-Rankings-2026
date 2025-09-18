@@ -48,15 +48,14 @@ The dataset contains detailed information on more than **1,500 universities worl
 - **Sustainability (SUS)**  
 - Metadata: Country/Territory, Region, Size, Focus, Research intensity, Status  
 
-**Note**: Due to file size limitations, the dataset is not uploaded to GitHub.  
-You can access it on the official QS website: [QS World University Rankings 2026](https://www.topuniversities.com/world-university-rankings)  
+QS website: [QS World University Rankings 2026](https://www.topuniversities.com/world-university-rankings)  
 
 ---
 
 ## Repository Structure  
 
 ### 01 Project Management  
-- **Project Brief** → Overview of goals and research questions  
+- **Data Profiling** → Descriptive Statistics & Data Profiling   
 
 ### 02 Data  
 - **Original Data** → Raw QS dataset  
@@ -66,10 +65,12 @@ You can access it on the official QS website: [QS World University Rankings 2026
 - Python scripts (Jupyter notebooks) for data cleaning, descriptive statistics, correlation, regression, and data export for visualization  
 
 ### 04 Analysis  
-- **Visualizations** → Correlation heatmaps, regression plots, quartile boxplots, and country/region aggregations  
+- **Visualizations** → Correlation heatmaps, regression plots, quartile boxplots, and country/region aggregations 
 
 ### 05 Sent to Client  
-- Final slide deck with summarized findings and recommendations for stakeholders  
+- Presentation with summarized findings and recommendations for stakeholders in Tableau (link https://public.tableau.com/app/profile/ola.gaffarova/viz/UNI_17581014299910/Story1#1)
+  
+- Project Reflections.pdf
 
 ### README.md  
 This file (project documentation)  
@@ -92,7 +93,7 @@ For **interactive dashboards and visual storytelling**, the cleaned data was imp
 ---
 
 ## Disclaimer  
-The QS World University Rankings dataset is publicly available via QS. This project is conducted as part of **CareerFoundry’s Data Analytics Program** for educational purposes.  
+The QS World University Rankings dataset is publicly available via QS. This project is conducted for educational purposes.  
 
 ---
 
